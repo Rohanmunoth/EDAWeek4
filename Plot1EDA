@@ -1,4 +1,3 @@
-## read in emissions data and classification code
 emissions_data <- readRDS("summarySCC_PM25.rds")
 class_code <- readRDS("Source_Classification_Code.rds")
 
